@@ -28,17 +28,6 @@ The webpage is written in **pure HTML** (no CSS or JavaScript yet) and uses sema
 
 ---
 
-## 🖼️ Screenshots
-
-> _You can add images here later once styling is done!_
-
----
-
-## 📁 Project Structure
-
-
----
-
 ## 🔧 To Do Next
 
 - Style with CSS for better layout and design
